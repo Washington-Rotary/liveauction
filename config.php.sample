@@ -1,0 +1,9 @@
+<?php
+
+$baseURL="http://example.com/";
+$year='2016';
+$refreshSeconds=15;
+
+$mysqli=mysqli_connect("localhost","USERNAME","PASSWORD","DATABASE");
+
+?>

@@ -1,0 +1,11 @@
+.alert {
+color: red;
+}
+
+.defaultItemRow {
+	background: #ffffff;
+}
+
+.highlightItemRow {
+	background: #1494d2;
+}

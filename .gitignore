@@ -1,0 +1,9 @@
+*.zip
+config.php
+images/
+error_log
+admin/old.htaccess
+admin/edit/bid.php
+admin/edit/item.php
+pma/
+php.ini
